@@ -70,7 +70,7 @@ After the initial training phase with the layers frozen, the model was fine-tune
 
 ## Evaluation
 
-The model was evaluated on a test dataset which was 10% of the original dataset. The model achieved an accuracy score of 93.08% on the test dataset. A classification report and a confusion matrix were also generated to provide a more comprehensive understanding of the model's performance. The classification report displayed the precision, recall and f1-score for each of the 4 categories. The confusion matrix provided a graphical representation of the number of correct and incorrect predictions made by the model. Both the classification report and the confusion matrix were plotted to visualize the results and to gain further insights into the model's performance.
+The model was evaluated on a test dataset which was 10% of the original dataset. The model achieved an accuracy score of 93.44% on the test dataset. A classification report and a confusion matrix were also generated to provide a more comprehensive understanding of the model's performance. The classification report displayed the precision, recall and f1-score for each of the 4 categories. The confusion matrix provided a graphical representation of the number of correct and incorrect predictions made by the model. Both the classification report and the confusion matrix were plotted to visualize the results and to gain further insights into the model's performance.
 ## Future Work
 
 - Training the model with more data or different datasets to improve the accuracy score.
